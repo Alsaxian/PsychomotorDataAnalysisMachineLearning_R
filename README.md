@@ -1,7 +1,7 @@
 
 
 # hello-world
-learn to use github
+## learn how to use github
 This is a try to make modifications in readme.
 
 And here's some code! :+1:
