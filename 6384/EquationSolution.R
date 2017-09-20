@@ -1,4 +1,0 @@
-# ?????????
-exp <- expression(qnorm(1-alpha))
-alpha=c(0.05,0.025,0.01,0.001)
-eval(exp)
